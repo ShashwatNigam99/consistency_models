@@ -17,5 +17,7 @@ dist/
 # Tests
 .pytest_cache/
 
-# Other
 *.DS_Store
+outputs/
+pretrained/*
+*.pt
